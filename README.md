@@ -6,7 +6,16 @@
 ![5](https://github.com/user-attachments/assets/7be2e8ca-ea1b-4b79-8503-efa8a2b999e7) <br>
 ![6](https://github.com/user-attachments/assets/b02f79bd-f8a3-4249-8003-6ab380cfd623) <br>
 ![7](https://github.com/user-attachments/assets/779cc7f7-6d00-45c2-a316-35637d75c909)
-<h1>About us </h1> <br>
+<h1>About us </h1> 
+![8](https://github.com/user-attachments/assets/9a26c94c-fbb9-40d9-87ff-438ce2f09d85)
+<h1>Contact </h1>
+![9](https://github.com/user-attachments/assets/8f4c21ad-e75d-4db8-b190-7b5b95532990) <br>
+![10](https://github.com/user-attachments/assets/4ea19e79-9d25-4d0b-934f-6fc36298a15a)]
+<h1>Blog </h1>
+![11](https://github.com/user-attachments/assets/bc87fc22-b9cd-44c7-b77b-325973aefac9) <br>
+
+
+
 
 
 
